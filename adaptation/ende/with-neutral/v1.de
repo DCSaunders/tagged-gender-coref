@@ -1,0 +1,582 @@
+Die glückliche Frau beendete ihre Arbeit .
+Der glückliche Mann beendete seine Arbeit .
+Die glückliche Person beendete <PRP> Arbeit .
+Die arme Frau beendete ihre Arbeit .
+Der arme Mann beendete seine Arbeit .
+Die arme Person beendete <PRP> Arbeit .
+Die hilfsbereite Frau beendete ihre Arbeit .
+Der hilfsbereite Mann beendete seine Arbeit .
+Die hilfsbereite Person beendete <PRP> Arbeit .
+Die praktische Frau beendete ihre Arbeit .
+Der praktische Mann beendete seine Arbeit .
+Die praktische Person beendete <PRP> Arbeit .
+Der Gerichtsvollzieher beendete seine Arbeit .
+Die Gerichtsvollzieherin beendete ihre Arbeit .
+<DEF> Gerichtsvollzieher<W_END>  beendete <PRP> Arbeit .
+Die lustige Frau beendete ihre Arbeit .
+Der lustige Mann beendete seine Arbeit .
+Die lustige Person beendete <PRP> Arbeit .
+Der Jäger beendete seine Arbeit .
+Die Jägerin beendete ihre Arbeit .
+<DEF> Jäger<W_END>  beendete <PRP> Arbeit .
+Die angenehme Frau beendete ihre Arbeit .
+Der angenehme Mann beendete seine Arbeit .
+Die angenehme Person beendete <PRP> Arbeit .
+Der Babysitter beendete seine Arbeit .
+Die Babysitterin beendete ihre Arbeit .
+<DEF> Babysitter<W_END>  beendete <PRP> Arbeit .
+Der Gefängniswärter beendete seine Arbeit .
+Die Gefängniswärterin beendete ihre Arbeit .
+<DEF> Gefängniswärter<W_END>  beendete <PRP> Arbeit .
+Der Psychiater beendete seine Arbeit .
+Die Psychiaterin beendete ihre Arbeit .
+<DEF> Psychiater<W_END>  beendete <PRP> Arbeit .
+Der Bote beendete seine Arbeit .
+Die Botin beendete ihre Arbeit .
+<DEF> Bot<W_END>  beendete <PRP> Arbeit .
+Der Schiedsrichter beendete seine Arbeit .
+Die Schiedsrichterin beendete ihre Arbeit .
+<DEF> Schiedsrichter<W_END>  beendete <PRP> Arbeit .
+Der Handwerker beendete seine Arbeit .
+Die Handwerkerin beendete ihre Arbeit .
+<DEF> Handwerker<W_END>  beendete <PRP> Arbeit .
+Der Archivar beendete seine Arbeit .
+Die Archivarin beendete ihre Arbeit .
+<DEF> Archivar<W_END>  beendete <PRP> Arbeit .
+Die große Frau beendete ihre Arbeit .
+Der große Mann beendete seine Arbeit .
+Die große Person beendete <PRP> Arbeit .
+Der Teller beendete seine Arbeit .
+Die Tellerin beendete ihre Arbeit .
+<DEF> Teller<W_END>  beendete <PRP> Arbeit .
+Der Korrespondent beendete seine Arbeit .
+Die Korrespondentin beendete ihre Arbeit .
+<DEF> Korrespondent<W_END>  beendete <PRP> Arbeit .
+Die zuverlässige Frau beendete ihre Arbeit .
+Der zuverlässige Mann beendete seine Arbeit .
+Die zuverlässige Person beendete <PRP> Arbeit .
+Die vorsichtige Frau beendete ihre Arbeit .
+Der vorsichtige Mann beendete seine Arbeit .
+Die vorsichtige Person beendete <PRP> Arbeit .
+Der Gastgeber beendete seine Arbeit .
+Die Gastgeberin beendete ihre Arbeit .
+<DEF> Gastgeber<W_END>  beendete <PRP> Arbeit .
+Die unehrliche Frau beendete ihre Arbeit .
+Der unehrliche Mann beendete seine Arbeit .
+Die unehrliche Person beendete <PRP> Arbeit .
+Der Glaser beendete seine Arbeit .
+Die Glaserin beendete ihre Arbeit .
+<DEF> Glaser<W_END>  beendete <PRP> Arbeit .
+Die ehrgeizige Frau beendete ihre Arbeit .
+Der ehrgeizige Mann beendete seine Arbeit .
+Die ehrgeizige Person beendete <PRP> Arbeit .
+Der Vertreter beendete seine Arbeit .
+Die Vertreterin beendete ihre Arbeit .
+<DEF> Vertreter<W_END>  beendete <PRP> Arbeit .
+Der Autor beendete seine Arbeit .
+Die Autorin beendete ihre Arbeit .
+<DEF> Autor<W_END>  beendete <PRP> Arbeit .
+Die gesunde Frau beendete ihre Arbeit .
+Der gesunde Mann beendete seine Arbeit .
+Die gesunde Person beendete <PRP> Arbeit .
+Die dünne Frau beendete ihre Arbeit .
+Der dünne Mann beendete seine Arbeit .
+Die dünne Person beendete <PRP> Arbeit .
+Der Präsident beendete seine Arbeit .
+Die Präsidentin beendete ihre Arbeit .
+<DEF> Präsident<W_END>  beendete <PRP> Arbeit .
+Die kreative Frau beendete ihre Arbeit .
+Der kreative Mann beendete seine Arbeit .
+Die kreative Person beendete <PRP> Arbeit .
+Der Dozent beendete seine Arbeit .
+Die Dozentin beendete ihre Arbeit .
+<DEF> Dozent<W_END>  beendete <PRP> Arbeit .
+Der Sammler beendete seine Arbeit .
+Die Sammlerin beendete ihre Arbeit .
+<DEF> Sammler<W_END>  beendete <PRP> Arbeit .
+Die vorsichtige Frau beendete ihre Arbeit .
+Der vorsichtige Mann beendete seine Arbeit .
+Die vorsichtige Person beendete <PRP> Arbeit .
+Der Geburtshelfer beendete seine Arbeit .
+Die Geburtshelferin beendete ihre Arbeit .
+<DEF> Geburtshelfer<W_END>  beendete <PRP> Arbeit .
+Der Künstler beendete seine Arbeit .
+Die Künstlerin beendete ihre Arbeit .
+<DEF> Künstler<W_END>  beendete <PRP> Arbeit .
+Die vernünftige Frau beendete ihre Arbeit .
+Der vernünftige Mann beendete seine Arbeit .
+Die vernünftige Person beendete <PRP> Arbeit .
+Der Forscher beendete seine Arbeit .
+Die Forscherin beendete ihre Arbeit .
+<DEF> Forscher<W_END>  beendete <PRP> Arbeit .
+Die schwache Frau beendete ihre Arbeit .
+Der schwache Mann beendete seine Arbeit .
+Die schwache Person beendete <PRP> Arbeit .
+Der Polizist beendete seine Arbeit .
+Die Polizistin beendete ihre Arbeit .
+<DEF> Polizist<W_END>  beendete <PRP> Arbeit .
+Der Direktor beendete seine Arbeit .
+Die Direktorin beendete ihre Arbeit .
+<DEF> Direktor<W_END>  beendete <PRP> Arbeit .
+Der Umweltschützer beendete seine Arbeit .
+Die Umweltschützerin beendete ihre Arbeit .
+<DEF> Umweltschützer<W_END>  beendete <PRP> Arbeit .
+Die hübsche Frau beendete ihre Arbeit .
+Der hübsche Mann beendete seine Arbeit .
+Die hübsche Person beendete <PRP> Arbeit .
+Der Statistiker beendete seine Arbeit .
+Die Statistikerin beendete ihre Arbeit .
+<DEF> Statistiker<W_END>  beendete <PRP> Arbeit .
+Die gedankenlose Frau beendete ihre Arbeit .
+Der gedankenlose Mann beendete seine Arbeit .
+Die gedankenlose Person beendete <PRP> Arbeit .
+Die nachdenkliche Frau beendete ihre Arbeit .
+Der nachdenkliche Mann beendete seine Arbeit .
+Die nachdenkliche Person beendete <PRP> Arbeit .
+Der Ansager beendete seine Arbeit .
+Die Ansagerin beendete ihre Arbeit .
+<DEF> Ansager<W_END>  beendete <PRP> Arbeit .
+Der Produzent beendete seine Arbeit .
+Die Produzentin beendete ihre Arbeit .
+<DEF> Produzent<W_END>  beendete <PRP> Arbeit .
+Die dicke Frau beendete ihre Arbeit .
+Der dicke Mann beendete seine Arbeit .
+Die dicke Person beendete <PRP> Arbeit .
+Der Kommissar beendete seine Arbeit .
+Die Kommissarin beendete ihre Arbeit .
+<DEF> Kommissar<W_END>  beendete <PRP> Arbeit .
+Der Soldat beendete seine Arbeit .
+Die Soldatin beendete ihre Arbeit .
+<DEF> Soldat<W_END>  beendete <PRP> Arbeit .
+Der Bediener beendete seine Arbeit .
+Die Bedienerin beendete ihre Arbeit .
+<DEF> Bediener<W_END>  beendete <PRP> Arbeit .
+Die traurige Frau beendete ihre Arbeit .
+Der traurige Mann beendete seine Arbeit .
+Die traurige Person beendete <PRP> Arbeit .
+Der Pilot beendete seine Arbeit .
+Die Pilotin beendete ihre Arbeit .
+<DEF> Pilot<W_END>  beendete <PRP> Arbeit .
+Die ruhige Frau beendete ihre Arbeit .
+Der ruhige Mann beendete seine Arbeit .
+Die ruhige Person beendete <PRP> Arbeit .
+Die beschäftigte Frau beendete ihre Arbeit .
+Der beschäftigte Mann beendete seine Arbeit .
+Die beschäftigte Person beendete <PRP> Arbeit .
+Der Schauspieler beendete seine Arbeit .
+Die Schauspielerin beendete ihre Arbeit .
+<DEF> Schauspieler<W_END>  beendete <PRP> Arbeit .
+Die fleißige Frau beendete ihre Arbeit .
+Der fleißige Mann beendete seine Arbeit .
+Die fleißige Person beendete <PRP> Arbeit .
+Die wache Frau beendete ihre Arbeit .
+Der wachsame beendete seine Arbeit .
+Der wachsame beendete <PRP> Arbeit .
+Die sympathische Frau beendete ihre Arbeit .
+Der sympathische Mann beendete seine Arbeit .
+Die sympathische Person beendete <PRP> Arbeit .
+Der Richter beendete seine Arbeit .
+Die Richterin beendete ihre Arbeit .
+<DEF> Richter<W_END>  beendete <PRP> Arbeit .
+Die ehrliche Frau beendete ihre Arbeit .
+Der ehrliche Mann beendete seine Arbeit .
+Die ehrliche Person beendete <PRP> Arbeit .
+Der Platzwart beendete seine Arbeit .
+Die Platzwartin beendete ihre Arbeit .
+<DEF> Platzwart<W_END>  beendete <PRP> Arbeit .
+Die hässliche Frau beendete ihre Arbeit .
+Der hässliche Mann beendete seine Arbeit .
+Die hässliche Person beendete <PRP> Arbeit .
+Der Agent beendete seine Arbeit .
+Die Agentin beendete ihre Arbeit .
+<DEF> Agent<W_END>  beendete <PRP> Arbeit .
+Der Gesetzgeber beendete seine Arbeit .
+Die Gesetzgeberin beendete ihre Arbeit .
+<DEF> Gesetzgeber<W_END>  beendete <PRP> Arbeit .
+Die selbstbewusste Frau beendete ihre Arbeit .
+Der selbstbewusste Mann beendete seine Arbeit .
+Die selbstbewusste Person beendete <PRP> Arbeit .
+Die aggressive Frau beendete ihre Arbeit .
+Der aggressive Mann beendete seine Arbeit .
+Die aggressive Person beendete <PRP> Arbeit .
+Der Verkäufer beendete seine Arbeit .
+Die Verkäuferin beendete ihre Arbeit .
+<DEF> Verkäufer<W_END>  beendete <PRP> Arbeit .
+Der Assembler beendete seine Arbeit .
+Die Assemblerin beendete ihre Arbeit .
+<DEF> Assembler<W_END>  beendete <PRP> Arbeit .
+Die motivierte Frau beendete ihre Arbeit .
+Der motivierte Mann beendete seine Arbeit .
+Die motivierte Person beendete <PRP> Arbeit .
+Der Sänger beendete seine Arbeit .
+Die Sängerin beendete ihre Arbeit .
+<DEF> Sänger<W_END>  beendete <PRP> Arbeit .
+Der Mathematiker beendete seine Arbeit .
+Die Mathematikerin beendete ihre Arbeit .
+<DEF> Mathematiker<W_END>  beendete <PRP> Arbeit .
+Der Seefahrer beendete seine Arbeit .
+Die Seefahrerin beendete ihre Arbeit .
+<DEF> Seefahrer<W_END>  beendete <PRP> Arbeit .
+Der Dachdecker beendete seine Arbeit .
+Die Dachdeckerin beendete ihre Arbeit .
+<DEF> Dachdecker<W_END>  beendete <PRP> Arbeit .
+Der Trainer beendete seine Arbeit .
+Die Trainerin beendete ihre Arbeit .
+<DEF> Trainer<W_END>  beendete <PRP> Arbeit .
+Die laute Frau beendete ihre Arbeit .
+Der laute Mann beendete seine Arbeit .
+Die laute Person beendete <PRP> Arbeit .
+Der Landvermesser beendete seine Arbeit .
+Die Landvermesserin beendete ihre Arbeit .
+<DEF> Landvermesser<W_END>  beendete <PRP> Arbeit .
+Der Astronom beendete seine Arbeit .
+Die Astronomin beendete ihre Arbeit .
+<DEF> Astronom<W_END>  beendete <PRP> Arbeit .
+Der Rentner beendete seine Arbeit .
+Die Rentnerin beendete ihre Arbeit .
+<DEF> Rentner<W_END>  beendete <PRP> Arbeit .
+Der Journalist beendete seine Arbeit .
+Die Journalistin beendete ihre Arbeit .
+<DEF> Journalist<W_END>  beendete <PRP> Arbeit .
+Der Installateur beendete seine Arbeit .
+Die Installateurin beendete ihre Arbeit .
+<DEF> Installateur<W_END>  beendete <PRP> Arbeit .
+Die müde Frau beendete ihre Arbeit .
+Der müde Mann beendete seine Arbeit .
+Die müde Person beendete <PRP> Arbeit .
+Der Professor beendete seine Arbeit .
+Die Professorin beendete ihre Arbeit .
+<DEF> Professor<W_END>  beendete <PRP> Arbeit .
+Der Fotograf beendete seine Arbeit .
+Die Fotografin beendete ihre Arbeit .
+<DEF> Fotograf<W_END>  beendete <PRP> Arbeit .
+Die besorgte Frau beendete ihre Arbeit .
+Der ängstliche Mann beendete seine Arbeit .
+Die ängstliche Person beendete <PRP> Arbeit .
+Die pünktliche Frau beendete ihre Arbeit .
+Der pünktliche Mann beendete seine Arbeit .
+Die pünktliche Person beendete <PRP> Arbeit .
+Die glückliche Frau beendete ihre Arbeit .
+Der glückliche Mann beendete seine Arbeit .
+Die glückliche Person beendete <PRP> Arbeit .
+Die blöde Frau beendete ihre Arbeit .
+Der dumme Mann beendete seine Arbeit .
+Die dumme Person beendete <PRP> Arbeit .
+Der Dirigent beendete seine Arbeit .
+Die Dirigentin beendete ihre Arbeit .
+<DEF> Dirigent<W_END>  beendete <PRP> Arbeit .
+Die kranke Frau beendete ihre Arbeit .
+Der kranke Mann beendete seine Arbeit .
+Die kranke Person beendete <PRP> Arbeit .
+Die höfliche Frau beendete ihre Arbeit .
+Der höfliche Mann beendete seine Arbeit .
+Die höfliche Person beendete <PRP> Arbeit .
+Die lächerliche Frau beendete ihre Arbeit .
+Der lächerliche Mann beendete seine Arbeit .
+Die lächerliche Person beendete <PRP> Arbeit .
+Der Porter beendete seine Arbeit .
+Die Porterin beendete ihre Arbeit .
+<DEF> Porter<W_END>  beendete <PRP> Arbeit .
+Der Politiker beendete seine Arbeit .
+Die Politikerin beendete ihre Arbeit .
+<DEF> Politiker<W_END>  beendete <PRP> Arbeit .
+Die treue Frau beendete ihre Arbeit .
+Der treue Mann beendete seine Arbeit .
+Die treue Person beendete <PRP> Arbeit .
+Der Choreograf beendete seine Arbeit .
+Die Choreografin beendete ihre Arbeit .
+<DEF> Choreograf<W_END>  beendete <PRP> Arbeit .
+Der Chauffeur beendete seine Arbeit .
+Die Chauffeurin beendete ihre Arbeit .
+<DEF> Chauffeur<W_END>  beendete <PRP> Arbeit .
+Die rücksichtslose Frau beendete ihre Arbeit .
+Der rücksichtslose Mann beendete seine Arbeit .
+Die rücksichtslose Person beendete <PRP> Arbeit .
+Die böse Frau beendete ihre Arbeit .
+Der zornige Mann beendete seine Arbeit .
+Die zornige Person beendete <PRP> Arbeit .
+Die nicht hilfsbereite Frau beendete ihre Arbeit .
+Der nicht hilfsbereite Mann beendete seine Arbeit .
+Die nicht hilfsbereite Person beendete <PRP> Arbeit .
+Die unangenehme Frau beendete ihre Arbeit .
+Der unangenehme Mann beendete seine Arbeit .
+Die unangenehme Person beendete <PRP> Arbeit .
+Die unzuverlässige Frau beendete ihre Arbeit .
+Der unzuverlässige Mann beendete seine Arbeit .
+Die unzuverlässige Person beendete <PRP> Arbeit .
+Die unbekümmerte Frau beendete ihre Arbeit .
+Der unbekümmerte Mann beendete seine Arbeit .
+Die unbekümmerte Person beendete <PRP> Arbeit .
+Die unmotivierte Frau beendete ihre Arbeit .
+Der unmotivierte Mann beendete seine Arbeit .
+Die unmotivierte Person beendete <PRP> Arbeit .
+Die unglückliche Frau beendete ihre Arbeit .
+Der unglückliche Mann beendete seine Arbeit .
+Die unglückliche Person beendete <PRP> Arbeit .
+Die unfreundliche Frau beendete ihre Arbeit .
+Der unfreundliche Mann beendete seine Arbeit .
+Die unfreundliche Person beendete <PRP> Arbeit .
+Die unbeliebte Frau beendete ihre Arbeit .
+Der unbeliebte Mann beendete seine Arbeit .
+Die unbeliebte Person beendete <PRP> Arbeit .
+Der Rettungsschwimmer beendete seine Arbeit .
+Die Rettungsschwimmerin beendete ihre Arbeit .
+<DEF> Rettungsschwimmer<W_END>  beendete <PRP> Arbeit .
+Der Reporter beendete seine Arbeit .
+Die Reporterin beendete ihre Arbeit .
+<DEF> Reporter<W_END>  beendete <PRP> Arbeit .
+Der Förster beendete seine Arbeit .
+Die Försterin beendete ihre Arbeit .
+<DEF> Förster<W_END>  beendete <PRP> Arbeit .
+Die vergessliche Frau beendete ihre Arbeit .
+Der vergessliche Mann beendete seine Arbeit .
+Die vergessliche Person beendete <PRP> Arbeit .
+Der Optiker beendete seine Arbeit .
+Die Optikerin beendete ihre Arbeit .
+<DEF> Optiker<W_END>  beendete <PRP> Arbeit .
+Der Platzanweiser beendete seine Arbeit .
+Die Platzanweiserin beendete ihre Arbeit .
+<DEF> Platzanweiser<W_END>  beendete <PRP> Arbeit .
+Der Korrektor beendete seine Arbeit .
+Die Korrektorin beendete ihre Arbeit .
+<DEF> Korrektor<W_END>  beendete <PRP> Arbeit .
+Der Magistrat beendete seine Arbeit .
+Die Magistratin beendete ihre Arbeit .
+<DEF> Magistrat<W_END>  beendete <PRP> Arbeit .
+Die feige Frau beendete ihre Arbeit .
+Der feige Mann beendete seine Arbeit .
+Die feige Person beendete <PRP> Arbeit .
+Die unpraktische Frau beendete ihre Arbeit .
+Der unpraktische Mann beendete seine Arbeit .
+Die unpraktische Person beendete <PRP> Arbeit .
+Die unhöfliche Frau beendete ihre Arbeit .
+Der unhöfliche Mann beendete seine Arbeit .
+Die unhöfliche Person beendete <PRP> Arbeit .
+Der Stuckateur beendete seine Arbeit .
+Die Stuckateurin beendete ihre Arbeit .
+<DEF> Stuckateur<W_END>  beendete <PRP> Arbeit .
+Die faule Frau beendete ihre Arbeit .
+Der faule Mann beendete seine Arbeit .
+Die faule Person beendete <PRP> Arbeit .
+Der Trainer beendete seine Arbeit .
+Die Trainerin beendete ihre Arbeit .
+<DEF> Trainer<W_END>  beendete <PRP> Arbeit .
+Der Biologe beendete seine Arbeit .
+Die Biologin beendete ihre Arbeit .
+<DEF> Biolog<W_END>  beendete <PRP> Arbeit .
+Der Darsteller beendete seine Arbeit .
+Die Darstellerin beendete ihre Arbeit .
+<DEF> Darsteller<W_END>  beendete <PRP> Arbeit .
+Der Interviewer beendete seine Arbeit .
+Die Interviewerin beendete ihre Arbeit .
+<DEF> Interviewer<W_END>  beendete <PRP> Arbeit .
+Die egoistische Frau beendete ihre Arbeit .
+Der egoistische Mann beendete seine Arbeit .
+Die egoistische Person beendete <PRP> Arbeit .
+Der Leichenbestatter beendete seine Arbeit .
+Die Leichenbestatterin beendete ihre Arbeit .
+<DEF> Leichenbestatter<W_END>  beendete <PRP> Arbeit .
+Der Bergarbeiter beendete seine Arbeit .
+Die Bergarbeiterin beendete ihre Arbeit .
+<DEF> Bergarbeiter<W_END>  beendete <PRP> Arbeit .
+Der Kellner beendete seine Arbeit .
+Die Kellnerin beendete ihre Arbeit .
+<DEF> Kellner<W_END>  beendete <PRP> Arbeit .
+Der Aufseher beendete seine Arbeit .
+Die Aufseherin beendete ihre Arbeit .
+<DEF> Aufseher<W_END>  beendete <PRP> Arbeit .
+Der Priester beendete seine Arbeit .
+Die Priesterin beendete ihre Arbeit .
+<DEF> Priester<W_END>  beendete <PRP> Arbeit .
+Der Tänzer beendete seine Arbeit .
+Die Tänzerin beendete ihre Arbeit .
+<DEF> Tänzer<W_END>  beendete <PRP> Arbeit .
+Der Vermarkter beendete seine Arbeit .
+Die Vermarkterin beendete ihre Arbeit .
+<DEF> Vermarkter<W_END>  beendete <PRP> Arbeit .
+Der Adjutant beendete seine Arbeit .
+Die Adjutantin beendete ihre Arbeit .
+<DEF> Adjutant<W_END>  beendete <PRP> Arbeit .
+Der Bestatter beendete seine Arbeit .
+Die Bestatterin beendete ihre Arbeit .
+<DEF> Bestatter<W_END>  beendete <PRP> Arbeit .
+Der Korrektor beendete seine Arbeit .
+Die Korrektorin beendete ihre Arbeit .
+<DEF> Korrektor<W_END>  beendete <PRP> Arbeit .
+Der Helfer beendete seine Arbeit .
+Die Helferin beendete ihre Arbeit .
+<DEF> Helfer<W_END>  beendete <PRP> Arbeit .
+Die hübsche Frau beendete ihre Arbeit .
+Der gutaussehende Mann beendete seine Arbeit .
+Die gutaussehende Person beendete <PRP> Arbeit .
+Die kluge Frau beendete ihre Arbeit .
+Der kluge Mann beendete seine Arbeit .
+Die kluge Person beendete <PRP> Arbeit .
+Der Ökonom beendete seine Arbeit .
+Die Ökonomin beendete ihre Arbeit .
+<DEF> Ökonom<W_END>  beendete <PRP> Arbeit .
+Der Kurier beendete seine Arbeit .
+Die Kurierin beendete ihre Arbeit .
+<DEF> Kurier<W_END>  beendete <PRP> Arbeit .
+Die aufgeregte Frau beendete ihre Arbeit .
+Der aufgeregte Mann beendete seine Arbeit .
+Die aufgeregte Person beendete <PRP> Arbeit .
+Die fürsorgliche Frau beendete ihre Arbeit .
+Der fürsorgliche Mann beendete seine Arbeit .
+Die fürsorgliche Person beendete <PRP> Arbeit .
+Der Hausmeister beendete seine Arbeit .
+Die Hausmeisterin beendete ihre Arbeit .
+<DEF> Hausmeister<W_END>  beendete <PRP> Arbeit .
+Der Kartograph beendete seine Arbeit .
+Die Kartografin beendete ihre Arbeit .
+<DEF> Kartograf<W_END>  beendete <PRP> Arbeit .
+Die sorglose Frau beendete ihre Arbeit .
+Der sorglose Mann beendete seine Arbeit .
+Die sorglose Person beendete <PRP> Arbeit .
+Der Kurator beendete seine Arbeit .
+Die Kuratorin beendete ihre Arbeit .
+<DEF> Kurator<W_END>  beendete <PRP> Arbeit .
+Der Züchter beendete seine Arbeit .
+Die Züchterin beendete ihre Arbeit .
+<DEF> Züchter<W_END>  beendete <PRP> Arbeit .
+Die gute Frau beendete ihre Arbeit .
+Der gute Mann beendete seine Arbeit .
+Die gute Person beendete <PRP> Arbeit .
+Der Zahnarzt beendete seine Arbeit .
+Die Zahnärztin beendete ihre Arbeit .
+<DEF> Zahnärzt<W_END>  beendete <PRP> Arbeit .
+Der Detektiv beendete seine Arbeit .
+Die Detektivin beendete ihre Arbeit .
+<DEF> Detektiv<W_END>  beendete <PRP> Arbeit .
+Der Kapitän beendete seine Arbeit .
+Die Kapitänin beendete ihre Arbeit .
+<DEF> Kapitän<W_END>  beendete <PRP> Arbeit .
+Der Baumeister beendete seine Arbeit .
+Die Baumeisterin beendete ihre Arbeit .
+<DEF> Baumeister<W_END>  beendete <PRP> Arbeit .
+Der Soziologe beendete seine Arbeit .
+Die Soziologin beendete ihre Arbeit .
+<DEF> Soziolog<W_END>  beendete <PRP> Arbeit .
+Der Geldbeschaffer beendete seine Arbeit .
+Die Geldbeschafferin beendete ihre Arbeit .
+<DEF> Geldbeschaffer<W_END>  beendete <PRP> Arbeit .
+Der Athlet beendete seine Arbeit .
+Die Athletin beendete ihre Arbeit .
+<DEF> Athlet<W_END>  beendete <PRP> Arbeit .
+Die athletische Frau beendete ihre Arbeit .
+Der athletische Mann beendete seine Arbeit .
+Die athletische Person beendete <PRP> Arbeit .
+Der Makler beendete seine Arbeit .
+Die Maklerin beendete ihre Arbeit .
+<DEF> Makler<W_END>  beendete <PRP> Arbeit .
+Die ungeschickte Frau beendete ihre Arbeit .
+Der ungeschickte Mann beendete seine Arbeit .
+Die ungeschickte Person beendete <PRP> Arbeit .
+Die einsame Frau beendete ihre Arbeit .
+Der einsame Mann beendete seine Arbeit .
+Die einsame Person beendete <PRP> Arbeit .
+Die rücksichtsvolle Frau beendete ihre Arbeit .
+Der rücksichtsvolle Mann beendete seine Arbeit .
+Die rücksichtsvolle Person beendete <PRP> Arbeit .
+Die langweilige Frau beendete ihre Arbeit .
+Der langweilige Mann beendete seine Arbeit .
+Die langweilige Person beendete <PRP> Arbeit .
+Der Musiker beendete seine Arbeit .
+Die Musikerin beendete ihre Arbeit .
+<DEF> Musiker<W_END>  beendete <PRP> Arbeit .
+Der Metzger beendete seine Arbeit .
+Die Metzgerin beendete ihre Arbeit .
+<DEF> Metzger<W_END>  beendete <PRP> Arbeit .
+Der Aktuar beendete seine Arbeit .
+Die Aktuarin beendete ihre Arbeit .
+<DEF> Aktuar<W_END>  beendete <PRP> Arbeit .
+Der Unterhalter beendete seine Arbeit .
+Die Unterhalterin beendete ihre Arbeit .
+<DEF> Unterhalter<W_END>  beendete <PRP> Arbeit .
+Die nette Frau beendete ihre Arbeit .
+Der freundliche Mann beendete seine Arbeit .
+Die freundliche Person beendete <PRP> Arbeit .
+Die kleine Frau beendete ihre Arbeit .
+Der kleine Mann beendete seine Arbeit .
+Die kleine Person beendete <PRP> Arbeit .
+Der Briefträger beendete seine Arbeit .
+Die Briefträgerin beendete ihre Arbeit .
+<DEF> Briefträger<W_END>  beendete <PRP> Arbeit .
+Der Reparateur beendete seine Arbeit .
+Die Reparaturarbeiterin beendete ihre Arbeit .
+<DEF> Reparaturarbeiter<W_END>  beendete <PRP> Arbeit .
+Die reiche Frau beendete ihre Arbeit .
+Der reiche Mann beendete seine Arbeit .
+Die reiche Person beendete <PRP> Arbeit .
+Die tapfere Frau beendete ihre Arbeit .
+Der tapfere Mann beendete seine Arbeit .
+Die tapfere Person beendete <PRP> Arbeit .
+Die starke Frau beendete ihre Arbeit .
+Der starke Mann beendete seine Arbeit .
+Die starke Person beendete <PRP> Arbeit .
+Die freundliche Frau beendete ihre Arbeit .
+Der freundliche Mann beendete seine Arbeit .
+Die freundliche Person beendete <PRP> Arbeit .
+Der Logistiker beendete seine Arbeit .
+Die Logistikerin beendete ihre Arbeit .
+<DEF> Logistiker<W_END>  beendete <PRP> Arbeit .
+Die berühmte Frau beendete ihre Arbeit .
+Der berühmte Mann beendete seine Arbeit .
+Die berühmte Person beendete <PRP> Arbeit .
+Die schöne Frau beendete ihre Arbeit .
+Der schöne Mann beendete seine Arbeit .
+Die schöne Person beendete <PRP> Arbeit .
+Der Maurer beendete seine Arbeit .
+Die Maurerin beendete ihre Arbeit .
+<DEF> Maurer<W_END>  beendete <PRP> Arbeit .
+Der Gärtner beendete seine Arbeit .
+Die Gärtnerin beendete ihre Arbeit .
+<DEF> Gärtner<W_END>  beendete <PRP> Arbeit .
+Der Fischer beendete seine Arbeit .
+Die Fischerin beendete ihre Arbeit .
+<DEF> Fischer<W_END>  beendete <PRP> Arbeit .
+Die böse Frau beendete ihre Arbeit .
+Der böse Mann beendete seine Arbeit .
+Die böse Person beendete <PRP> Arbeit .
+Die weise Frau beendete ihre Arbeit .
+Der weise Mann beendete seine Arbeit .
+Die weise Person beendete <PRP> Arbeit .
+Die erfolgreiche Frau beendete ihre Arbeit .
+Der erfolgreiche Mann beendete seine Arbeit .
+Die erfolgreiche Person beendete <PRP> Arbeit .
+Der Screener beendete seine Arbeit .
+Die Screenerin beendete ihre Arbeit .
+<DEF> Screener<W_END>  beendete <PRP> Arbeit .
+Die beliebte Frau beendete ihre Arbeit .
+Der beliebte Mann beendete seine Arbeit .
+Die beliebte Person beendete <PRP> Arbeit .
+Der Assessor beendete seine Arbeit .
+Die Assessorin beendete ihre Arbeit .
+<DEF> Assessor<W_END>  beendete <PRP> Arbeit .
+Die selbständige Frau beendete ihre Arbeit .
+Der unabhängige Mann beendete seine Arbeit .
+Die unabhängige Person beendete <PRP> Arbeit .
+Der Förderer beendete seine Arbeit .
+Die Förderin beendete ihre Arbeit .
+<DEF> Förder<W_END>  beendete <PRP> Arbeit .
+Der Dolmetscher beendete seine Arbeit .
+Die Dolmetscherin beendete ihre Arbeit .
+<DEF> Dolmetscher<W_END>  beendete <PRP> Arbeit .
+Die taktlose Frau beendete ihre Arbeit .
+Der taktlose Mann beendete seine Arbeit .
+Die taktlose Person beendete <PRP> Arbeit .
+Die taktvolle Frau beendete ihre Arbeit .
+Der taktvolle Mann beendete seine Arbeit .
+Die taktvolle Person beendete <PRP> Arbeit .
+Der Physiker beendete seine Arbeit .
+Die Physikerin beendete ihre Arbeit .
+<DEF> Physiker<W_END>  beendete <PRP> Arbeit .
+Die interessante Frau beendete ihre Arbeit .
+Der interessante Mann beendete seine Arbeit .
+Die interessante Person beendete <PRP> Arbeit .
+Die ruhige Frau beendete ihre Arbeit .
+Der stille Mann beendete seine Arbeit .
+Die stille Person beendete <PRP> Arbeit .
+Der Chiropraktiker beendete seine Arbeit .
+Die Chiropraktikerin beendete ihre Arbeit .
+<DEF> Chiropraktiker<W_END>  beendete <PRP> Arbeit .
