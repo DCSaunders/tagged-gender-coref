@@ -513,7 +513,7 @@ la persona cautelosa terminó el trabajo .
 la mujer cautelosa terminó el trabajo .
 el carcelero terminó el trabajo .
 la carcelera terminó  el trabajo .
-<DEF> carceler<W_END>  termin<W_END>  el trabajo .
+<DEF> carceler<W_END>  terminó  el trabajo .
 el curador terminó el trabajo .
 la curadora terminó el trabajo .
 <DEF> curador<W_END>  terminó el trabajo .

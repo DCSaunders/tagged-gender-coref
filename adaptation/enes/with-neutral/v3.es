@@ -278,11 +278,11 @@ la intérprete y el entrevistador terminaron el trabajo .
 el intérprete y <DEF> entrevistador<W_END>  terminaron el trabajo .
 <DEF> intérprete y la carcelera terminaron el trabajo .
 la entrevistadora y el carcelero terminaron el trabajo .
-el entrevistador y <DEF> carceler<W_END>  termin<W_END>  el trabajo .
+el entrevistador y <DEF> carceler<W_END>  terminaron  el trabajo .
 <DEF> entrevistador<W_END>  y la periodista terminaron el trabajo .
 la carcelera y el periodista terminaron el trabajo .
 el carcelero y <DEF> periodist<W_END>  terminaron el trabajo .
-<DEF> carceler<W_END>  termin<W_END>  el trabajo . y la jueza terminaron el trabajo .
+<DEF> carceler<W_END> y la jueza terminaron el trabajo .
 la periodista y el juez terminaron el trabajo .
 el periodista y <DEF> juez<W_END>  terminaron el trabajo .
 <DEF> periodist<W_END>  y la profesora terminaron el trabajo .
