@@ -11,7 +11,7 @@ We provide the small tagged adaptation sets described in sections 2.2 and 2.3 of
 
 The neutral-augmented sets also include 194 equivalent parallel sentence pairs with neutral entities on the English side, and synthetic gender-neutral placeholder articles and noun inflections in the target language. Specifically we define synthetic placeholder articles `<DEF>` and  noun inflections `<W_END>`, as well as a placeholder possessive pronoun for German `<PRP>`. 
 
-We describe three tagging schemes for adaptation, V1, V2 and V3, as well as a baseline approach from our previous paper, which we refer to as S\&B. In each case we provide binary and neutral-augmented sentence sets. Brief examples are as follows:
+We describe four tagging schemes for adaptation, V1-4, as well as a baseline approach from our previous paper, which we refer to as S\&B. In each case we provide binary and neutral-augmented sentence sets. Brief examples are as follows:
 
 Name | English source | German target |Spanish target
 --- | --- | --- | --- 
@@ -21,6 +21,7 @@ Name | English source | German target |Spanish target
 **V1** | the trainer `<M>`  finished his work | der Trainer  beendete seine Arbeit | el entrenador  terminó su trabajo
 **V2** | the trainer `<F>` finished the work | die Trainerin  beendete die Arbeit  |la entrenadora  terminó su trabajo  
 **V3** | the trainer `<N>` and the choreographer `<M>` finished the work |   `<DEF>` Trainer`<W_END>` und der Choreograf  beendeten die Arbeit |  `<DEF>` entrenador`<W_END>` y el coreógrafo terminaron el trabajo
+**V4** | the trainer `<F>` , the choreographer `<N>`  |   die Trainerin , `<DEF>` Choreograf`<W_END>` |  la entrenadora , `<DEF>`coreógraf`<W_END>`
 
 
 
